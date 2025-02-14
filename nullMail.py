@@ -1,6 +1,5 @@
 """
 MTA Email Server Assignment
-Author: Lilly Jackson
 Date: 14 February 2025
 Description: This Python script implements a simple MTA server using sockets and threads.
 It validates email addresses, limits recipients to 5, checks for a subject line, and limits attachments to 5.
